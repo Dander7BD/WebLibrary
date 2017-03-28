@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="itemDisplay.aspx.cs" Inherits="Dander.Web.Net.Test.Script.itemDisplay" %>

@@ -1,0 +1,11 @@
+C:\Users\dande\GitHub Repos\WebLibrary\Dander.Web.Net\Dander.Web.Net\bin\Debug\Dander.Web.Net.dll
+C:\Users\dande\GitHub Repos\WebLibrary\Dander.Web.Net\Dander.Web.Net\bin\Debug\Dander.Web.Net.pdb
+C:\Users\dande\GitHub Repos\WebLibrary\Dander.Web.Net\Dander.Web.Net\bin\Debug\System.Web.Http.dll
+C:\Users\dande\GitHub Repos\WebLibrary\Dander.Web.Net\Dander.Web.Net\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\dande\GitHub Repos\WebLibrary\Dander.Web.Net\Dander.Web.Net\bin\Debug\System.Web.Http.xml
+C:\Users\dande\GitHub Repos\WebLibrary\Dander.Web.Net\Dander.Web.Net\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\dande\GitHub Repos\WebLibrary\Dander.Web.Net\Dander.Web.Net\obj\Debug\Dander.Web.Net.csprojResolveAssemblyReference.cache
+C:\Users\dande\GitHub Repos\WebLibrary\Dander.Web.Net\Dander.Web.Net\obj\Debug\Dander.Web.Net.JavaScripts.resources
+C:\Users\dande\GitHub Repos\WebLibrary\Dander.Web.Net\Dander.Web.Net\obj\Debug\Dander.Web.Net.csproj.GenerateResource.Cache
+C:\Users\dande\GitHub Repos\WebLibrary\Dander.Web.Net\Dander.Web.Net\obj\Debug\Dander.Web.Net.dll
+C:\Users\dande\GitHub Repos\WebLibrary\Dander.Web.Net\Dander.Web.Net\obj\Debug\Dander.Web.Net.pdb
